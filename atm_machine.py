@@ -1,4 +1,4 @@
-# while loops
+# Thank you for using my program
 import time
 
 bal = 99
@@ -46,5 +46,5 @@ while True:
         break
 print("goodbye")
 
-
+# have a nice day
     
